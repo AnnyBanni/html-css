@@ -1,3 +1,3 @@
 # html-css
-Примеры выполненных заданий при прохождении обучения.
+Демонстрация примеров работ выполненных в процессе обучения по тестированию. 
 https://htmlpreview.github.io/?https://github.com/AnnyBanni/html-css/blob/main/container2.html
